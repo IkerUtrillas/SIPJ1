@@ -17,3 +17,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [sp1. Instalació i configuració inicial)  
 ### [sp2. Gestió de la informació del sistema i administració)
+### [sp3. Gestió de dominis i accessos)
+### [sp4. 
